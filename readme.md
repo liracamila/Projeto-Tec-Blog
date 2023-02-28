@@ -1,0 +1,1 @@
+Este projeto é de um blog simples, utilizando html e css3.
